@@ -1,0 +1,7 @@
+{
+  "profile": "product-admin",
+  "sourceRoots": ["."],
+  "locale": "zh-CN",
+  "canonicalMap": "UX-CONTRACT.md",
+  "ownership": { "Select/Listbox": "authored" }
+}
